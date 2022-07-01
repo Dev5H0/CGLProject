@@ -1,0 +1,5 @@
+perm description:txt = 'Hello, World!\n\nThis is a test.'
+perm name:txt = '5H0'
+temp count:num = -1|0.25|9|null
+temp isAlive:tof = true
+perm posTxtArr:arr = ['Hello, World!', 'Hello, $name']

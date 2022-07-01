@@ -1,0 +1,9 @@
+chs TestChoice = [
+    .'Are you alive?' = {
+        do $count += 1
+        TestChoiceYes
+        TestChoiceNo
+    }
+
+    .'
+]

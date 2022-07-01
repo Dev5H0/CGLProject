@@ -1,0 +1,7 @@
+fnc IncreaseCount = { do $count += 1 }
+fnc DecreaseCount = { do $count -= 1 }
+fnc IncreaseCount:
+
+set:
+run:
+goto:

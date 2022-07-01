@@ -1,0 +1,7 @@
+set perm #vName:txt = '5H0'
+set temp #count:num = 1
+set list #ARRAY:arr = ['Hello, World!', 'Hello, p#vName']
+
+add count 1
+sub count 1
+ 
