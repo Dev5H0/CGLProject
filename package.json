@@ -1,8 +1,8 @@
 {
-  "name": "@cyoa/dev",
+  "name": "@cglp/dev",
   "private": "true",
   "version": "1.0.0",
-  "description": "",
+  "description": "The Choice Game Language Project aims to create a custom programming language to be used alongside TypeScript to create CYOA games.",
   "main": "out/index.js",
   "types": "out/index.d.ts",
   "scripts": {
